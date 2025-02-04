@@ -1,1 +1,2 @@
-# BakingCookies
+This project is a playable game automation script built using Selenium. It demonstrates how Selenium works by automating the gameplay of the "Cookie Clicker" experiment. Through this project, users can understand different Selenium methods by observing how the game is played automatically without manual input. The script interacts with the game by clicking the cookie, monitoring available upgrades, and purchasing the most expensive affordable upgrade to maximize cookie production. This project serves as a practical example of browser automation using Selenium.
+
